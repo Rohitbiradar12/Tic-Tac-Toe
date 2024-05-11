@@ -18,7 +18,8 @@
    
 2. Navigate to the project directory:
    ```bash
-cd Tic-Tac-Toe
+   cd Tic-Tac-Toe
+
 
 
 
