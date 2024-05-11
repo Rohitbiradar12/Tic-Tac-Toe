@@ -17,8 +17,9 @@
    git clone https://github.com/Rohitbiradar12/Tic-Tac-Toe.git
    
 2. Navigate to the project directory:
-```bash
+   ```bash
 cd Tic-Tac-Toe
+
 
 
 ## Usage
