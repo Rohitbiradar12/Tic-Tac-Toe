@@ -1,6 +1,3 @@
-## Demo
-
-[Include a demo GIF or a link to a live demo if available]
 
 ## Features
 
